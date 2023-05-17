@@ -1,0 +1,8 @@
+prefix=/home/winata/catkin_ws/src/Tugas_Aksan/build/devel
+
+Name: Tugas_Aksan
+Description: Description of Tugas_Aksan
+Version: 0.0.0
+Cflags: -I/home/winata/catkin_ws/src/Tugas_Aksan/include
+Libs: -L${prefix}/lib -lTugas_Aksan
+Requires: roscpp std_msgs

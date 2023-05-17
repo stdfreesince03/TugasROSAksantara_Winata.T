@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="Tugas_Aksan" type="talker" name="talker" output="screen"></node>
+    <node pkg="Tugas_Aksan" type="listener" name="listener" output="screen"></node>
+</launch>
